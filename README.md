@@ -67,4 +67,4 @@ If you'd like to contribute, please follow these guidelines:
 These isn't any license for this project and it's free to use.
 
 
-Hope you guys find this project helpful for understanding and learning how to use AI models more deeply, as well as for practicing salary prediction and fairness in machine learning applications.
+Hope you guys find this project helpful for understanding and learning how to use AI models more deeply, as well as for practicing salary prediction and fairness in machine learning applications. rony
